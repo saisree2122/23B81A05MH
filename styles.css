@@ -24,3 +24,12 @@ nav a:hover {
 .container {
     padding: 20px;
 }
+.about-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+.contact-info {
+    color: #3333ff;
+}
+
